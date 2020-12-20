@@ -8,3 +8,13 @@ C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualize
 C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.exe
 C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.pdb
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.exe.config
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.exe
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.pdb
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csprojAssemblyReference.cache
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.Form1.resources
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.Properties.Resources.resources
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csproj.GenerateResource.cache
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.exe
+C:\Users\Azkay\Source\Repos\azrielnaufal\visualizer1\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.pdb
