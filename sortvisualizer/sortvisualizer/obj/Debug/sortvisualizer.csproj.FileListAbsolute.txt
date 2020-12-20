@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.exe.config
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.exe
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\bin\Debug\sortvisualizer.pdb
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.Form1.resources
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.Properties.Resources.resources
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.exe
+C:\Users\ASUS\source\repos\sortvisualizer\sortvisualizer\obj\Debug\sortvisualizer.pdb
